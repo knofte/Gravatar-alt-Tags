@@ -13,6 +13,6 @@ This plugins simply takes the name of the user and adds to the gravatar img alt 
 
 
 == Changelog ==
-
 = 1.2 =
 * Initial setup
+* 
