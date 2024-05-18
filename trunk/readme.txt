@@ -3,7 +3,7 @@ Contributors: knofte
 Tags: gravatar, img, alt, tag, tags
 Requires at least: 5.2
 Tested up to: 6.4.2
-Stable tag: 1.4.6
+Stable tag: 1.4.8
 Requires PHP: 7.4
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -32,6 +32,9 @@ This plugin should be compatible with most themes, but themes that heavily custo
 
 
 == Changelog ==
+
+= 1.4.8 =
+* Added comments to the code for future devs.
 
 = 1.4.6 =
 * Updated information.
