@@ -2,7 +2,7 @@
 /*
  * Plugin Name: Alt Tags for Gravatar
  * Description: Adds alt tags to Gravatar images for post authors and comments
- * Version: 1.4.8
+ * Version: 1.4.9
  * Requires at least: 5.2
  * Requires PHP: 7.4
  * Author: Kent Riboe
